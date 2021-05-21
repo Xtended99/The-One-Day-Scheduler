@@ -113,24 +113,28 @@ Enjoy!!!
  _______________________________________________________________________
 ```
 
-<span style="color:blue">###**Application Images:**</span>
-
-**Using the application for the first time**   
+### <span style="color:blue">**Application Images:**</span>
+  
+  
+### **Using the application for the first time**   
    ![First Time Use](./appimages/using_for_the_first_time.png)   
   
   
-**Modifiyng A field with an expanded text area**  
+  
+### **Modifiyng A field with an expanded text area**  
   ![First Time Use](./appimages/modified.png)   
   
   
-**Showing Developer Tools Ouptut for debbuging and validation purposes**   
+  
+### **Showing Developer Tools Ouptut for debbuging and validation purposes**   
   ![First Time Use](./appimages/developer_tools_application_view.png)   
   
   
-**Showing console view**   
+  
+### **Showing console view**   
   ![First Time Use](./appimages/console.view.PNG)   
   
   
-**Compacct View**   
+### **Compact View**   
   ![First Time Use](./appimages/compact.view.PNG)   
   
