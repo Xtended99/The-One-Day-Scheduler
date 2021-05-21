@@ -116,4 +116,9 @@ Enjoy!!!
 <span style="color:blue">**Application Images:**</span>
 
   ![First Time Use](./appimages/using_for_the_first_time.png)   
+  ![First Time Use](./appimages/with_message.png)   
+  ![First Time Use](./appimages/modified.png)   
+  ![First Time Use](./appimages/developer_tools_application_view.pn)   
+  ![First Time Use](./appimages/console.view.PNG)   
+  ![First Time Use](./appimages/compact.view.PNG)   
   
