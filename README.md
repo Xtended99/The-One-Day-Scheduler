@@ -1,8 +1,8 @@
 # jQuery UI and The One Day Planner
 
 
-* Link to access the "The One Day Scheduler" [Published Link](https://xtended99.github.io/The-One-Day-Scheduler).
-* Link to access the project page for "The One Day Scheduler" [Repository Link](https://github.com/Xtended99/The-One-Day-Scheduler).
+* Link access to the "The One Day Scheduler" [Published Link](https://xtended99.github.io/The-One-Day-Scheduler).
+* Link access to the project page for "The One Day Scheduler" [Repository Link](https://github.com/Xtended99/The-One-Day-Scheduler).
 
 
 ## Your Task
