@@ -51,8 +51,8 @@ Premise:
  * If you were to reload or close the browser you will see the data for each time
  * will persist.
 
- * Link to access the "The One Day Scheduler" https://xtended99.github.io/The-One-Day-Scheduler
- * Link to access the project page for "The One Day Scheduler"  https://github.com/Xtended99/The-One-Day-Scheduler
+ * Link to access the "The One Day Scheduler" [Oublished Link] https://xtended99.github.io/The-One-Day-Scheduler
+ * Link to access the project page for "The One Day Scheduler" [Repository Link] https://github.com/Xtended99/The-One-Day-Scheduler
 
 
 Features included:
