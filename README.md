@@ -24,7 +24,7 @@ daily planner so that I can manage my time effectively
 ## Acceptance Criteria
 
 ```
-Given: I am using a daily planner to create a schedule
+<span style="color:blue">Given: I am using a daily planner to create a schedule</span>
 When:  I open the planner,
 Then:   the current day is displayed at the top of the calendar
 When:  I scroll down,
