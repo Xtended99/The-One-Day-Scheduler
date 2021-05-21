@@ -1,0 +1,149 @@
+
+
+/*   This is the only style sheet for this project
+ *   The elements have broken into minimal components in order to satisfy a dynamic UI
+ */
+
+
+/* This sets up the font to use for the entire UI */
+
+*
+   {
+    font-family: 'Open Sans', sans-serif;
+   }
+
+/* Set up the main header fields*/
+
+#p1, #p2
+   {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-style: normal;
+   }
+
+/* This is the main header */
+
+h1
+   {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-style: normal;
+    margin: 54px 0px 0px 0px;
+    font-size: 459%;
+   }
+
+#p1
+   {
+    font-size: 125%;
+    padding: 10px 0px 15px 0px;
+   }
+
+#p2
+   {
+    font-size: 125%;
+    padding: 0px 0px 46px 0px;
+    border-bottom: 10px solid black;
+   }
+
+/* The bulk of the UI lives in the MainUL */
+
+
+#MainUL, li
+   {
+    empty-cells: show;
+   }
+
+/* Setting up flex properties */
+
+#MainUL
+   {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    height 900px;
+    border: 3px solid grey;
+    margin: 25px 1px 1px 1px;
+    padding: 0px 0px 0px 0px;
+    max-width: 90%;
+    min-width: 1%;
+   }
+
+/* Setting up flex properties */
+
+li
+   {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    height: 100% );
+    margin: 1px 2px 0px 1px;
+    padding: 0px 0px 0px 0px;
+    min-width: 1%;
+    max-width: 100%;
+    font-size: 13px;
+   }
+
+button
+   {
+    flex: .1 1 5%;
+    height: 46.5px;;
+    width: 18%;
+    right: 100px;
+    margin: 7px 5px 0px 0px;
+    padding 0px 10px 0px 0px;
+   }
+
+button:hover
+   {
+    background-color: #F7F7F7;
+    font-weight: 700;
+   }
+
+textarea
+   {
+    justify-content: center;
+    float: right;
+    margin: 7px;
+    height: 40px;
+    width: 80%;
+    border-style: inset;
+    border-width: 2px;
+    min-width: 1%;
+    max-width: 70%;
+   }
+
+textarea:hover
+   {
+    background-color: #F7F7F7;
+    font-style: italic;
+   }
+
+/*This is how colors are applied according to the time slot values*/
+
+.green
+   {
+    border: 1px dashed olive;
+    color: lightgreen;
+    background: darkgreen;
+   }
+
+.red
+   {
+    border: 1px dashed orange;
+    color: red;
+    background: darkred;
+   }
+
+
+.grey
+   {
+    border: 1px dashed grey;
+    color: lightgrey;
+    background: darkgrey;
+   }
