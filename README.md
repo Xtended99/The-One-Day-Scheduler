@@ -115,18 +115,16 @@ Enjoy!!!
 
 <span style="color:blue">**Application Images:**</span>
 
-![First Time Use](./appimages/using_for_the_first_time.png)   
-     
 Using the application for the first time   
-  ![First Time Use](./appimages/with_message.png)   
-  
-Modedifying aa field   
+   ![First Time Use](./appimages/using_for_the_first_time.png)   
+     
+Modifiyng A field with an expanded text area
   ![First Time Use](./appimages/modified.png)   
      
-Demonstrating Developer Tools        
-  ![First Time Use](./appimages/developer_tools_application_view.pn)   
+Showing Developer Tools Ouptut for debbuging and validation purposes   
+  ![First Time Use](./appimages/developer_tools_application_view.png)   
    
-Showing Console Ouptut for debbuging and validation purposes   
+Showing console view
   ![First Time Use](./appimages/console.view.PNG)   
    
 Compacct View   
