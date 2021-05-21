@@ -113,5 +113,7 @@ Enjoy!!!
  _______________________________________________________________________
 ```
 
-<span style="color:blue">Application Images:</span>
+<span style="color:blue">**Application Images:**</span>
 
+  ![First Time Use](./appimages/using_for_the_first_time.png)   
+  
