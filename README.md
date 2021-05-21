@@ -1,5 +1,10 @@
 # jQuery UI and The One Day Planner
 
+
+* Link to access the "The One Day Scheduler" [Published Link](https://xtended99.github.io/The-One-Day-Scheduler).
+* Link to access the project page for "The One Day Scheduler" [Repository Link](https://github.com/Xtended99/The-One-Day-Scheduler).
+
+
 ## Your Task
 
 ```
@@ -50,9 +55,6 @@ Premise:
  The UI is also primed with the last edits entered in to the planner.
  * If you were to reload or close the browser you will see the data for each time
  * will persist.
-
- * Link to access the "The One Day Scheduler" [Published Link](https://xtended99.github.io/The-One-Day-Scheduler).
- * Link to access the project page for "The One Day Scheduler" [Repository Link](https://github.com/Xtended99/The-One-Day-Scheduler)
 
 
 Features included:
