@@ -138,3 +138,4 @@ Enjoy!!!
 ### **Compact View**   
   ![First Time Use](./appimages/compact.view.PNG)   
   
+
